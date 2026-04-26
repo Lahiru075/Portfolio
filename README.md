@@ -5,7 +5,7 @@ Welcome to my personal portfolio repository! This website showcases my skills, p
 ---
 
 ## 🌐 Live Demo
-Check out the live version here: [[Vercel Link](https://lahiru-sanjeewa.vercel.app/)]
+Check out the live version here: [Vercel Link](https://lahiru-sanjeewa.vercel.app/)
 
 ---
 
