@@ -37,3 +37,40 @@ Check out the live version here: [[Vercel Link](https://lahiru-sanjeewa.vercel.a
 │   └── index.js        # Entry point
 └── package.json        # Project dependencies
 ```
+
+---
+
+## ⚙️ Installation & Setup
+
+If you want to run this project locally, follow these steps:
+
+### 1. Clone the repository:
+  ```bash
+  git clone https://github.com/Lahiru075/Portfolio.git
+  ```
+
+### 2. Navigate to the directory:
+  ```bash
+  cd Portfolio
+  ```
+
+### 3. Install dependencies:
+  ```bash
+  npm install
+  ```
+
+### 4. Start the development server:
+  ```bash
+  npm run dev
+  ```
+
+Open `http://localhost:3000` in your browser.
+
+---
+
+## 👤 Author
+
+* Name: Lahiru Lakshan
+* GitHub: @Lahiru075
+* LinkedIn: [www.linkedin.com/in/lahiru-sanjeewa-8b2a59323]
+* Email: sanjeewalahiru057@gmail.com
