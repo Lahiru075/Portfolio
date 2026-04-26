@@ -4,6 +4,11 @@ Welcome to my personal portfolio repository! This website showcases my skills, p
 
 ---
 
+## 🌐 Live Demo
+Check out the live version here: [[Vercel Link](https://lahiru-sanjeewa.vercel.app/)]
+
+---
+
 ## ✨ Features
 - **Responsive Design:** Optimized for all screen sizes (Mobile, Tablet, Desktop).
 - **Project Showcase:** A dedicated section displaying my best work with descriptions and links.
