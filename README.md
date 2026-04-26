@@ -21,7 +21,7 @@ Check out the live version here: [[Vercel Link](https://lahiru-sanjeewa.vercel.a
 ## 🛠️ Technologies Used
 - **Frontend:** React.js
 - **Styling:** Tailwind CSS 
-- **Icons:** Lucide React / FontAwesome
+- **Icons:** Lucide React
 - **Version Control:** Git & GitHub
 - **Deployment:** Vercel 
 
