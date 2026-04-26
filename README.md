@@ -71,6 +71,6 @@ Open `http://localhost:3000` in your browser.
 ## 👤 Author
 
 * Name: Lahiru Lakshan
-* GitHub: @Lahiru075
+* GitHub: [@Lahiru075](https://github.com/Lahiru075)
 * LinkedIn: [www.linkedin.com/in/lahiru-sanjeewa-8b2a59323]
 * Email: sanjeewalahiru057@gmail.com
