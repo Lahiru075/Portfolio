@@ -4,7 +4,7 @@ import { ExternalLink, Github, Cpu, Search, Smartphone, Monitor } from "lucide-r
 
 import aiTravelImg from "../assets/ai_travel.png";
 import lostLinkImg from "../assets/lost_and_found.png";
-import boardingImg from "../assets/boarding_mate.png";
+import boardingImg from "../assets/boarding_mate.jpeg";
 import tireShopImg from "../assets/tire_shop.png";
 
 
@@ -150,10 +150,9 @@ const ProjectsSection = () => {
                       rel="noopener noreferrer"
                       className="group/btn relative inline-flex items-center justify-center gap-3 bg-white text-slate-900 px-8 py-3 rounded-full font-bold text-sm overflow-hidden transition-all duration-500 w-full"
                     >
-                      {/* වමේ සිට දකුණට හෙමින් පිරී යන Background Layer එක (1000ms = 1s) */}
+                      
                       <span className="absolute inset-0 w-0 bg-cyan-500 transition-all duration-1000 ease-in-out group-hover/btn:w-full" />
 
-                      {/* බට්න් එකේ අකුරු සහ Icon එක */}
                       <span className="relative z-10 flex items-center gap-3 transition-colors duration-700 group-hover/btn:text-white">
                         <span>Explore on GitHub</span>
                         <Github size={18} className="transition-transform duration-700 group-hover/btn:rotate-12" />
