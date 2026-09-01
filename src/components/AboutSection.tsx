@@ -1,6 +1,7 @@
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
-import profileImg from './../assets/Profile.png';
+// import profileImg from './../assets/Profile.png';
+import profileImg from '../assets/NewProfile.jpeg';
 
 const blurReveal = {
   hidden: { opacity: 0, filter: "blur(15px)", y: 30 },
